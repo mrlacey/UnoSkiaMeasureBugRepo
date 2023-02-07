@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UnoControlSizeBugRepo.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
